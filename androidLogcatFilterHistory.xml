@@ -1,0 +1,12 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="nonFavorites">
+      <list>
+        <option value="package:mine " />
+        <option value="three_of_spades" />
+        <option value="admob" />
+        <option value="E" />
+      </list>
+    </option>
+  </component>
+</application>

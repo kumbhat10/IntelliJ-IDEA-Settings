@@ -5,6 +5,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="192.168.1.105:39457" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-05-08T15:34:28.404982800Z" />
+        <name value="samsung SM-G998B" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="R5CR201C2XM" />
           </Key>
         </key>
